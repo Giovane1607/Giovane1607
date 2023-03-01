@@ -16,5 +16,4 @@
    </div>
    <p><img width='300' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giovane1607&show_icons=true&theme=dark&locale=en&layout=compact" alt="Giovane1607" /></p>
 <p><img width='360' align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Giovane1607&theme=dark" alt="Giovane1607" /></p>
-   
 
