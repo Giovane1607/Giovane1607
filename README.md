@@ -1,7 +1,5 @@
 ### I'm Giovane 👋
 
-- 🎓 Sistemas de Informação (FHO)
-- 🌱 Estudando React
 - 📫 Email: giovanepereira571@gmail.com
  ## 
   ##
